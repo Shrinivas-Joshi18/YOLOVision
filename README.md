@@ -4,7 +4,7 @@ Real-time object detection application leveraging the power of YOLOv5 and OpenCV
 
 ## 📸 Demo
 
-![Demo GIF](link-to-your-demo.gif)
+![Object Detection Demo](demo.gif)
 
 ## 🚀 Features
 
