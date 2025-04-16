@@ -1,4 +1,4 @@
-# 🧠 Object Detection using YOLOv5
+# 🧠 YOLOVision
 
 Real-time object detection application leveraging the power of YOLOv5 and OpenCV. This project captures video from a webcam and identifies objects in real-time using a pre-trained YOLOv5 model.
 
