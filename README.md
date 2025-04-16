@@ -18,8 +18,8 @@ Real-time object detection application leveraging the power of YOLOv5 and OpenCV
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Shrinivas-Joshi18/Object-Detection-using-YOLOv5.git
-   cd Object-Detection-using-YOLOv5
+   git clone https://github.com/Shrinivas-Joshi18/YOLOVision.git
+   cd YOLOVision
    
 2. **Create and activate a virtual environment:**
 
